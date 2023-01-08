@@ -1,16 +1,16 @@
-# trix_app
+# Card Game Calculator
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+An application for calculating arithmetic operations in the card game, the application is under development and is not finished yet.
 
-A few resources to get you started if this is your first Flutter project:
+Objectives:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- The use of the application is very easy
+- It should not be of a written nature, but of a figurative nature
+- The user does not enter the information manually, but only by clicking
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
